@@ -1,7 +1,4 @@
 # beanstalk-code-snippet-bot
-<<<<<<< HEAD
-A Slack Bot that displays a code snippet for a specific file URL from Beanstalk
-=======
 ## Overview
 A Slack Bot that displays the contents of a file from your Beanstalk repository. This project will show you how to install and run this bot on your slack team.
 
@@ -24,7 +21,3 @@ This bot will listen for Beanstalk file URLs in any channel that it's a member o
 
 ## MIT license
 See the [LICENSE](https://github.com/wildbit/beanstalk-code-snippet-bot/blob/master/LICENSE) file (MIT).
->>>>>>> wildbit/master
-
-
-
